@@ -53,7 +53,7 @@ Ensure your data is in JSON format with each item containing:
 Example `kid_explanations.json`:
 ```json
 [
-    {"Concept": "Signal", "Explanation": "A signal is like a message sent from one place to another."},
+    {"Concept": "Classification", "Explanation": "Classification is sorting things into groups, like putting animals into groups like mammals or birds."}
     {"Concept": "Bandwidth", "Explanation": "Bandwidth is how much data can be sent at once."},
-    {"Concept": "Spectrum", "Explanation": "Spectrum is a range of frequencies used to send messages across the world."}
+    {"Concept": "Cell-Free Communication", "Explanation": "Cell-free communication uses lots of antennas everywhere, so you always have a good signal."},
 ]
