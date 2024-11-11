@@ -1,6 +1,6 @@
 # Kid-Friendly Explainer Tool
 
-![Kid-Friendly Explainer Project](images/A_bright,_colorful_illustration_of_a_machine_learn.png)
+![Kid-Friendly Explainer Project](pic.webp)
 
 
 This project is a fine-tuned model that generates simplified, kid-friendly explanations of complex concepts, ideal for science, math, wireless communications, physics, and other STEM fields. Using a base language model, we train it to transform technical explanations into language that children (around 7-10 years old) can understand.
